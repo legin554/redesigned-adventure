@@ -29,14 +29,8 @@ selling point for potenial event holders to include us in their events. We are k
 
 ## User Stories
 
-M
+
 
 ## Scope
 
 The project will comprise of user friendly interactions, with each menu item containing simple recognisable functions. Events will have a scroll bar with dates and location. Contact will contain two buttons, one for recruitment and one for event holders, each will contain a button with a phone number and one for e-mails, and will be available on mobile phones, laptops and Desktops. About 4gd and the history of Grossdeustchland Div will contain text, video's and images.
-[
-
-
-   <img src=“https://www.facebook.com/photo/?fbid=10157147944921326&set=p.10157147944921326” alt=“Alt text” title=“Title text” />
-
-   https://lh3.googleusercontent.com/3dIPrA1C185k0MOjVax2fqI-lMcSQMikEEsMWX7VowSMtciPa2lZINrxwhmnBTfnNVYGfbo=s113
