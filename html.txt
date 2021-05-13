@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<title>4th Kompanie GD</title>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -8,10 +10,9 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>Rosie</title>
-</head>
+</head>    
 <body>
-<H1>HELLO</H1>
-
+<H1>4TH Kompanie GD</H1>
+<img src=â€œhttps://www.facebook.com/photo/?fbid=10157147944921326&set=p.10157147944921326â€ alt=â€œAlt textâ€ title=â€œTitle textâ€ /
 
 </body>
