@@ -1,21 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>4th Kompanie GD</title>
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    css" type="text/css" />
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/style.css">
+    <title>4th Kompanie GD</title>
 </head>    
 <body>
-    <div>   
-        <H1>4TH Kompanie GD</H1>
-            <p>WW2 Re-enactment Group</p>
-    </div>
+    <H1>4th Kompanie GD</H1>
+        <p>WW2 Re-enactment Group</p>
+   
+   <nav>
+      <div id="   >
+          <a href="home">Home</a>
+          
 
+      </div>
+   </nav>
 </body>
